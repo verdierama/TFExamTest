@@ -12,3 +12,5 @@
 *.txt
 *.data-00000-of-00001
 *.index
+*.pkl
+/C1/W4/assignment/data
